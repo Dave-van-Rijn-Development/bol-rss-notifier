@@ -1,0 +1,9 @@
+.idea
+*.egg-info
+dkim
+dist
+*.ini
+build
+*.swp
+env
+**/__pycache__/*

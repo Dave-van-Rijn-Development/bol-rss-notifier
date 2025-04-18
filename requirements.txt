@@ -1,0 +1,14 @@
+annotated-types==0.7.0
+cffi==1.17.1
+cryptography==44.0.0
+dvrd_smtp==1.1.6
+feedparser==6.0.11
+psycopg==3.2.3
+pycparser==2.22
+pycryptodome==3.21.0
+pydantic==2.10.5
+pydantic-settings==2.7.1
+pydantic_core==2.27.2
+python-dotenv==1.0.1
+sgmllib3k==1.0.0
+typing_extensions==4.12.2
